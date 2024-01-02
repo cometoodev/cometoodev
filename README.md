@@ -1,4 +1,4 @@
-<h1 align="center">Hello <b>I,m</b> <a href="https://instagram.com/rafliiahmdzn" target="_blank">Rafly Ahmad Zainur</a> 👋</h1>
+<h1 align="center">Hello <b>I,m</b> <a href="https://linkedin.com/in/raflyahmadzainur" target="_blank">Rafly Ahmad Zainur</a> 👋</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cometoodev&show_icons=true&locale=en&layout=compact" alt="cometoo-dev" /></p>
 
