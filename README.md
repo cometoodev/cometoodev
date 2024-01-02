@@ -1,7 +1,5 @@
 <h1 align="center">Hello <b>I,m</b> <a href="https://linkedin.com/in/raflyahmadzainur" target="_blank">Rafly Ahmad Zainur</a> 👋</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cometoodev&repo=github-readme-stats)](https://github.com/cometoodev/github-readme-stats)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cometoodev&show_icons=true&locale=en&layout=compact" alt="cometoo-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cometoodev&show_icons=true&locale=en" alt="cometoo-dev" /></p>
