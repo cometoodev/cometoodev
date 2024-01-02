@@ -1,5 +1,5 @@
 ### I'm Rafly 👋
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=cometoodev"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=cometoodev"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cometoodev&layout=compact)](https://github.com/cometoodev/github-readme-stats)
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometoodev&layout=compact"/>
