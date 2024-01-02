@@ -1,5 +1,15 @@
 <h1 align="center">Hello <b>I,m</b> <a href="https://instagram.com/rafliiahmdzn" target="_blank">Rafly Ahmad Zainur</a> 👋</h1>
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=cometoodev"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cometoodev&show_icons=true&locale=en&layout=compact" alt="cometoo-dev" /></p>
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cometoodev&layout=compact"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cometoodev&show_icons=true&locale=en" alt="cometoo-dev" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cometoodev&label=Profile%20views&color=0e75b6&style=flat" alt="cometoo-dev" /> </p>
+
+
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/thisisrafly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisisraflyahmad" height="30" width="40" /></a>
+<a href="https://instagram.com/rafliiahmdzn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rafliiahmdzn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cometoodev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="cometoo dev" height="30" width="40" /></a>
+</p>
