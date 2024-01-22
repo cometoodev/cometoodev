@@ -21,7 +21,7 @@
 
 - 📫 Reach me at **raflyahmad22135@gmail.com**
 
-- 👨‍💻 All of my projects are available at [raflyahmadzainur](https://cometoodev.github.io)
+- 👨‍💻 All of my projects are available at [cometoodev](https://cometoodev.github.io)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
