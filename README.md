@@ -15,17 +15,17 @@
 
 - 💬 Ask me about **anything**
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/cometoodev/github-profile-readme-generator)
 
 - 💬 Ask me about **react, vue and gsap**
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
+- 📫 Reach me at **raflyahmad22135@gmail.com**
 
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
+- 👨‍💻 All of my projects are available at [raflyahmadzainur](https://cometoodev.github.io)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
+I have a bug to document technical stuffs that I do, which can be found at my [blog](https://cometoodev.github.io/blog)
 
 
 <h3 align="left">Languages and Tools:</h3>
