@@ -29,7 +29,9 @@
 
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://cometoodev.github.io/blog)
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cometoodev&" alt="cometoodev" /></p>
+
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cometoodev&" alt="cometoodev" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
