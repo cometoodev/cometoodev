@@ -52,7 +52,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 </p> 
 <hr />
-<br />
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
