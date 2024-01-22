@@ -28,8 +28,8 @@
 
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://cometoodev.github.io/blog)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cometoodev&" alt="cometoodev" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cometoodev&show_icons=true&locale=en" alt="cometoodev" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cometoodev&" alt="cometoodev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cometoodev&show_icons=true&locale=en" alt="cometoodev" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
