@@ -2,12 +2,12 @@
 <h3 align="center">Welcome To My Github</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/raflyahmadzainur" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="Follow raflyahmadzainur on LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/raflyahmadzainur" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="Follow raflyahmadzainur on LinkedIn" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cometoodev&show_icons=true&locale=en&layout=compact" alt="cometoodev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cometoodev&show_icons=true&locale=en&layout=compact" alt="cometoodev" width="400" height="200" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cometoodev&show_icons=true&locale=en" alt="cometoodev" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cometoodev&label=Profile%20views&color=0e75b6&style=flat" alt="cometoodev" /> </p>
