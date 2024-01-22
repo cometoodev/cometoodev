@@ -29,7 +29,7 @@
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://cometoodev.github.io/blog)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cometoodev&" alt="cometoodev" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cometoodev&label=Profile%20views&color=0e75b6&style=flat" alt="cometoodev" /> </p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cometoodev&show_icons=true&locale=en" alt="cometoodev" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
