@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cometoodev&label=Profile%20views&color=0e75b6&style=flat" alt="cometoodev" /> </p>
 
 <p style="text-align:center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cometoodev&" alt="cometoodev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cometoodev" alt="cometoodev" />
 </p>
 
 
