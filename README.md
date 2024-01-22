@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, <b>I'm</b> <a href="https://linkedin.com/in/raflyahmadzainur" target="_blank">Rafly Ahmad Zainur</a></h1>
 <h3 align="center">Welcome To My Github</h3>
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/raflyahmadzainur" target="blank"><img src="https://img.shields.io/linkedin/follow/raflyahmadzainur?logo=linkedin&style=for-the-badge" alt="raflyahmadzainur" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cometoodev&show_icons=true&locale=en&layout=compact" alt="cometoo-dev" /></p>
 
