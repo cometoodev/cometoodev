@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, <b>I'm</b> <a href="https://linkedin.com/in/raflyahmadzainur" target="_blank">Rafly Ahmad Zainur</a></h1>
 <h3 align="center">Welcome To My Github</h3>
 
+<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cometoodev&show_icons=true&locale=en&layout=compact" alt="cometoo-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cometoodev&show_icons=true&locale=en" alt="cometoo-dev" /></p>
