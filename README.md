@@ -55,12 +55,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
-
-<a href="https://twitter.com/thisraflyahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisraflyahmad" height="30" width="40" /></a>
-<a href="https://instagram.com/rafliiahmdzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/dev-dot-to.svg" alt="rafliiahmdzn" height="30" width="40" /></a>
-
 <a href="https://twitter.com/thisraflyahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisraflyahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/rafliiahmdzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafliiahmdzn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@rafliahmad6805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raflyahmadzainur" height="30" width="40" /></a>
