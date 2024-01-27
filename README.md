@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, <b>I'm</b> <a href="https://linkedin.com/in/raflyahmadzainur" target="_blank">Rafly Ahmad Zainur</a></h1>
-<h3 align="center">Welcome To My Github</h3>
+<br/>
+<p align="center">
+	<a href="https://github.com/ferdyraw">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=380&height=45&lines=Computer+Science+Student;DS+%7C+CP+Enthusiastic;Always+learning+new+things">
+	</a>
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/raflyahmadzainur" target="_blank">
