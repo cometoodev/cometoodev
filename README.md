@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, <b>I'm</b> <a href="https://linkedin.com/in/raflyahmadzainur" target="_blank">Rafly Ahmad Zainur</a></h1>
+<h1 align="center">Hi 
+		<a href="https://github.com/ferdyraw" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>, <b>I'm</b> <a href="https://linkedin.com/in/raflyahmadzainur" target="_blank">Rafly Ahmad Zainur</a></h1>
 <br/>
 <p align="center">
 	<a href="https://github.com/ferdyraw">
