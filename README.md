@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, <b>I'm</b> <a href="https://linkedin.com/in/raflyahmadzainur" target="_blank">Rafly Ahmad Zainur</a></h1>
 <br/>
+
+<p>
+	Hi there! My name is Rafly Ahmad Zainur and I'm currently an undergraduate computer science student at Halu Oleo University. My fields of interest are software engineering, website development, and machine learning.
+</p>
+
 <p align="center">
 	<a href="https://github.com/ferdyraw">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=380&height=45&lines=Computer+Science+Student;DS+%7C+CP+Enthusiastic;Always+learning+new+things">
 	</a>
-</p>
-
-<p align>
-	Hi there! My name is Rafly Ahmad Zainur and I'm currently an undergraduate computer science student at Halu Oleo University. My fields of interest are software engineering, website development, and machine learning.
 </p>
 
 <p align="left">
