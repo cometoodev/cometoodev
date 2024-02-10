@@ -186,13 +186,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 #### Tools
 
-## 📈 Stats
-<p align="center">
-    <a href="https://github.com/cometoodev/cometoodev">
-        <img src="https://github-profile-trophy.vercel.app/?username=cometoodev&column=-1&theme=dracula" />
-    </a>
-</p>
-
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
@@ -202,3 +195,11 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)
 
+<hr />
+
+## 📈 Stats
+<p align="center">
+    <a href="https://github.com/cometoodev/cometoodev">
+        <img src="https://github-profile-trophy.vercel.app/?username=cometoodev&column=-1&theme=dracula" />
+    </a>
+</p>
