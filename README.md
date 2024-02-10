@@ -19,10 +19,10 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/thisraflyahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisraflyahmad" height="30" width="40" /></a>
-<a href="https://instagram.com/rafliiahmdzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafliiahmdzn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@rafliahmad6805" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/></a>
-<a href="https://www.linkedin.com/in/raflyahmadzainur/" target="_blank"><img  align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/thisraflyahmad" target="_blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="thisisraflyahmad"/></a>
+<a href="https://instagram.com/rafliiahmdzn" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rafliiahmdzn"  /></a>
+<a href="https://www.youtube.com/@rafliahmad6805" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="raflyahmadzainur"/></a>
+<a href="https://www.linkedin.com/in/raflyahmadzainur/" target="_blank"><img  align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raflyahmadzainur"></a>
 </p>
 
 
