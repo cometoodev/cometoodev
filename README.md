@@ -7,7 +7,7 @@
 </p>
 
 <p align>
-	Hi there! My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer science student at Bandung Institute of Technology.
+	Hi there! My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer science student at Halu Oleo University. My fields of interest are software engineering, website development, and machine learning.
 </p>
 
 <p align="left">
