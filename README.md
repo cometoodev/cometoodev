@@ -6,6 +6,10 @@
 	</a>
 </p>
 
+<p align>
+	Hi there! My name is Rayhan Kinan Muhannad and I'm currently an undergraduate computer science student at Bandung Institute of Technology.
+</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/raflyahmadzainur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="Follow raflyahmadzainur on LinkedIn" />
