@@ -43,8 +43,8 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 <hr />
 
-## 💻 My Tech Stack
-
+## 💻 Tools & Technologies
+### I'm capable of using this
 #### Programming Language
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
